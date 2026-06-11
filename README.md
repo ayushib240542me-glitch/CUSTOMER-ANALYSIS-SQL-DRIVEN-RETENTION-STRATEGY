@@ -2,6 +2,7 @@
 <img width="1376" height="772" alt="image" src="https://github.com/user-attachments/assets/2fa89bad-b604-4d44-ac79-619f0f27880e" />
 # Decoding Customer Value: A SQL-Driven Retention Strategy
 IIT Guwahati — Consulting & Analytics Club | Summer Projects '26
+
 ## Project Overview
 This project analyzes behavioral and transactional data of 3,900 customers 
 of a D2C fashion brand to answer one core strategic question:
@@ -16,8 +17,8 @@ continuous promotional activity to drive revenue?"
 | Power BI | Dashboard.pbix | Four-panel founder dashboard |
 | Playbook | Retention_Playbook.docx | Promo sunset plan + ideal customer profile |
 | Summary | Customer_Intelligence_Report.docx | Executive summary of findings |
----
----
+
+
 
 ## Tech Stack
 
@@ -26,7 +27,6 @@ continuous promotional activity to drive revenue?"
 - Power BI Desktop — founder dashboard
 - Microsoft Word — playbook and executive summary
 
----
 
 ## Engineered Features
 | Feature | Logic | Business Question Answered |
@@ -38,7 +38,7 @@ continuous promotional activity to drive revenue?"
 | loyal_def2 | High value tier + satisfaction flag | Retained by experience, not deals? |
 | spend_per_purchase_history | Purchase Amount / (Previous Purchases + 1) | Spending efficiency over time |
 | is_subscriber | Subscription Status == Yes | Brand commitment indicator |
----
+
 
 ## Key Findings
 1. 43% of customers (1,700) are fully discount-dependent
@@ -57,16 +57,6 @@ continuous promotional activity to drive revenue?"
 2. Acquisition Retargeting: Shift paid campaigns to target the ideal 
    customer profile — male, 27-55, Outerwear/Footwear, 
    Virginia/Vermont/Arizona locations.
-
----
-## How to Run
-1. Open `feature_engineering.ipynb` in Google Colab
-2. Upload `raw_data.csv` when prompted
-3. Run all cells — outputs cleaned and engineered CSVs
-4. Open `Dashboard.pbix` in Power BI Desktop
-5. Refresh data connections pointing to your local CSV files
-
----
 
 ## Contact
 Ayushi Singh
