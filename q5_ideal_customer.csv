@@ -1,0 +1,11 @@
+Gender,avg_age,Category,Payment Method,Subscription Status,count,avg_spend,avg_purchases,promo_dependency
+Male,27.0,Outerwear,Cash,No,2,99.5,23.0,0.0
+Male,53.0,Outerwear,Paypal,No,6,93.67,26.5,0.17
+Female,58.0,Footwear,Credit Card,No,4,93.25,18.0,0.0
+Female,39.0,Outerwear,Debit Card,No,4,92.75,30.0,0.0
+Male,37.0,Footwear,Cash,Yes,8,92.13,27.25,1.0
+Male,53.0,Clothing,Debit Card,Yes,8,91.88,34.38,1.0
+Male,38.0,Accessories,Paypal,Yes,8,91.63,26.88,1.0
+Male,42.0,Clothing,Paypal,No,17,91.24,27.65,0.35
+Female,43.0,Accessories,Credit Card,No,3,91.0,29.0,0.0
+Male,49.0,Accessories,Cash,Yes,8,90.75,36.25,1.0
